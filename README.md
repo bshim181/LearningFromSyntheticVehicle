@@ -1,13 +1,15 @@
-# Bo_Sim2Real
+#Learning From Synthetic Vehicles 
 
-Model Saved Directories 
+Model
 
-/data/bo/attention_model
-a. Saved Attention/MultiLabel Classification Models (Pretrained) 
+Attention Models 
+
+UNet Model (Encoder connected with a Decoder) 
+
+<img width="346" alt="Screen Shot 2022-04-05 at 10 28 42 PM" src="https://user-images.githubusercontent.com/53489568/161764649-e95fcdd4-f81c-44f6-8127-5c01644c3084.png">
 
 
-/data/bo/savedModel
-a. Saved Binary Classification Model(Any Door -> Open or Closed) 
+
 
 ____________________________________________________________________
 

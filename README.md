@@ -3,7 +3,7 @@
 - Publication
 https://openaccess.thecvf.com/content/WACV2022W/RWS/papers/Kim_Learning_From_Synthetic_Vehicles_WACVW_2022_paper.pdf
 
-Model
+- Model
 
 UNet Model (Encoder connected with a Decoder) 
 

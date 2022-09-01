@@ -1,11 +1,11 @@
 # Learning From Synthetic Vehicles 
 
-- Publication
+## Publication
 https://openaccess.thecvf.com/content/WACV2022W/RWS/papers/Kim_Learning_From_Synthetic_Vehicles_WACVW_2022_paper.pdf
 
-- Model
+## Model
 
-UNet Model (Encoder connected with a Decoder) 
+##### UNet Model (Encoder connected with a Decoder) 
 
 <img width="346" alt="Screen Shot 2022-04-05 at 10 28 42 PM" src="https://user-images.githubusercontent.com/53489568/161764649-e95fcdd4-f81c-44f6-8127-5c01644c3084.png">
 
@@ -13,7 +13,7 @@ UNet Model (Encoder connected with a Decoder)
 
 ____________________________________________________________________
 
-SAVED (Simulated Articulated Vehicle Dataset)
+## SAVED (Simulated Articulated Vehicle Dataset)
 
 1. Utilized an unreal engine generated images with geometric signals to pretrain our model 
 2. Performed a classification task on DIVA dataset to determine whether a door of the car is open or not. 
@@ -23,7 +23,7 @@ SAVED (Simulated Articulated Vehicle Dataset)
 
 ____________________________________________________________________
 
-Results
+## Results
 
 <img width="345" alt="Screen Shot 2022-04-05 at 10 51 45 PM" src="https://user-images.githubusercontent.com/53489568/161769278-30e74183-1763-42ff-aec3-246df8902379.png">
 
@@ -33,7 +33,7 @@ Results
 
 ____________________________________________________________________
 
-Improvements.
+## Improvements.
 
 1. Need for an improved control experiment: Rather than employing an ImageNet pretrained model, V-KITTI pretrained model will serve as a better control. Showing an improved performance compared to V-KITTI will strongly support the benefit of this dataset. 
 
